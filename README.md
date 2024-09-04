@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @CyrilUO
 - 👀 I’m interested in everything related to IT
-- 🌱 I’m currently learning Computater Science degree
+- 🌱 I’m currently learning web and application development 
 - 💞️ I’m looking to collaborate on various python - javascript - java - php projects
 - 📫 How to reach me : LinkedIn 
-- 😄 AI Enthusiast :
+- 😄 AI Enthusiast 
 
 
 <!---
